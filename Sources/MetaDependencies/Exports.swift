@@ -2,7 +2,7 @@
 @_exported import FirebaseCore
 @_exported import FirebaseDatabase
 @_exported import FirebaseStorage
-@_exported import FirebaseDatabaseSwift
+//@_exported import FirebaseDatabaseSwift
 @_exported import FirebaseFunctions
 @_exported import Promises
 @_exported import SwiftyJSON
